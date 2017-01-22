@@ -89,6 +89,7 @@ jspm_packages
 /4me
 .privates
 /about
+/dist
 
 npm-debug.log
 yarn-error.log
