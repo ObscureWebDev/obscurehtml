@@ -1,5 +1,5 @@
 {
-  "name": "online-course-tracker",
+  "name": "obscure-html",
   "version": "0.0.0",
   "license": "MIT",
   "angular-cli": {},
@@ -54,10 +54,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/profoundideation/Online-Course-Tracker.git"
+    "url": "https://github.com/ObscureWebDev/obscurehtml.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/profoundideation/Online-Course-Tracker/issues"
+    "url": "https://github.com/ObscureWebDev/obscurehtml.github.io/issues"
   },
   "engines": {
     "node": ">= 5",

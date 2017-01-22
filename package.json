@@ -1,11 +1,12 @@
 {
-  "name": "Obscure HTML",
+  "name": "Obscure-HTML",
   "version": "1.0.0",
   "description": "Obscure HTML",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "git subtree push --prefix project/dist origin gh-pages"
+    "deploy": "git subtree push --prefix project/dist origin gh-pages",
+    "deploy-demo": "git push origin :gh-pages && git subtree push --prefix project/dist origin gh-pages"
   },
   "repository": {
     "url": "https://github.com/ObscureWebDev/obscurehtml.github.io"

@@ -1,6 +1,6 @@
 import { OnlineCoursesPage } from './app.po';
 
-describe('online-course-tracker App', function() {
+describe('Obscure HTML App', function() {
   let page: OnlineCoursesPage;
 
   beforeEach(() => {
