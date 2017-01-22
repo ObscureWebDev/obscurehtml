@@ -2,4 +2,4 @@
 Obscure HTML
 
 ### Notes:
-Dont' use Yarn, as it tends to mess-up the build.
+Don't use Yarn, as it tends to mess-up the build.
